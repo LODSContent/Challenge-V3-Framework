@@ -8,7 +8,7 @@
 - Configure a Secure Custom AMI [Guided]
 - Can You Deploy Secure AWS EC2 Resources [Advanced]
 - Implement AWS Credentials and Policies by using IAM [Guided]
-- Protect Data in Transit for AWS Resources [Guided]
+- Secure Remote Administration for EC2 Instances [Guided]
 - Implement Encryption and Manage the Lifecycle of Data at Rest [Guided]
 - Can You Provide Secure Access to AWS Data and Resources [Advanced]
 - Can You Configure a Secure AWS Environment [Expert]
