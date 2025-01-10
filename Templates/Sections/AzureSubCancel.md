@@ -4,14 +4,13 @@ Variable: ShowSubCancel
 
 Activity/Question: 
 Replacement Token Alias: Question1
-Text: ###To proceed, please review and check the box to confirm your understanding and agreement with the following terms:
+Text: #####To proceed, please review and check the box to confirm your understanding and agreement with the following terms:
 Format: Multiple Choice,single answer
 Answer: I understand that a Microsoft trial subscription is necessary to complete all related labs within this Challenge Series. The trial subscription is valid for 30 days from the date of creation.  I acknowledge that I must proactively cancel my Microsoft trial subscription, preferably no later than 25 days after the account creation date, to avoid being charged a subscription fee.
 Blocks page navigation until answered: Enabled 
 Show Results in Report: Enabled 
 
 -->
-
 
 #Before you end your lab 
 
