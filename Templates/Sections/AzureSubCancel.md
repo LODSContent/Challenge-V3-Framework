@@ -59,13 +59,13 @@ Show Results in Report: Enabled
 >
 >**Note:** After 3 to 4 days, you will be able to remove the credit card associated with the cancelled subscription. Copy the following steps to a local document and complete them at a later time: 
 >
->```
->- Open **Microsoft Edge**, go to +++https://portal.azure.com+++, sign in to the Microsoft Defender portal as +++@lab.Variable(GlobalAdmin)+++ using +++@lab.Variable(UserPassword)+++ as the password, and then dismiss all >prompts.
->- In the Azure portal, navigate to +++Cost Management and Billing+++.
->- Select **Cost Management**.
->- Expand **Billing** ant then select **Payment methods**.
->- Under **Your credit and debit cards**, next to the credit card you used for the trial subscription, select the triple dots icon (...) and then choose **Delete**.
->- Select **Delete**.
+>```-nocolor
+>- Open Microsoft Edge, go to https://portal.azure.com, sign in to the Microsoft Defender portal as @lab.Variable(GlobalAdmin) using @lab.Variable(UserPassword) as the password, and then dismiss all prompts.
+>- In the Azure portal, navigate to Cost Management and Billing.
+>- Select Cost Management.
+>- Expand Billing ant then select Payment methods.
+>- Under Your credit and debit cards, next to the credit card you used for the trial subscription, select the triple dots icon (...) and then choose Delete.
+>- Select Delete.
 >```
 
 :::
