@@ -4,7 +4,7 @@ Variable: ShowSubCancel
 
 Activity/Question: 
 Replacement Token Alias: Question1
-Text: #####To proceed, please review and check the box to confirm your understanding and agreement with the following terms:
+Text: ###To proceed, please review and check the box to confirm your understanding and agreement with the following terms:
 Format: Multiple Choice,single answer
 Answer: I understand that a Microsoft trial subscription is necessary to complete all related labs within this Challenge Series. The trial subscription is valid for 30 days from the date of creation.  I acknowledge that I must proactively cancel my Microsoft trial subscription, preferably no later than 25 days after the account creation date, to avoid being charged a subscription fee.
 Blocks page navigation until answered: Enabled 
@@ -14,15 +14,25 @@ Show Results in Report: Enabled
 
 #Before you end your lab 
 
-- Do you plan to complete any of the related Challenge Labs below using your current trial subscription: 
+- Do you plan to complete any of the related Challenge Labs below using your current trial subscription? 
+*Select **Yes to proceed to acknowledgement** or select **No to proceed with cancelling your subscription**.*
 
-    @lab.DropDownList(ShowSubCancel)[Yes - Proceed to acknowledgement,No - Follow steps to cancel your subscription]
+    @lab.DropDownList(ShowSubCancel)[Yes,No]
 
     >!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Templates/Sections/NextStepSeries/@lab.Variable(Series).md) 
 
-:::ShowSubCancel(ShowSubCancel=No - Follow steps to cancel your subscription)
 
-###Cancel your Azure subscription to avoid charges to your credit card.
+>[!ALERT] **Reminder:**
+>Your Microsoft trial subscription is needed to complete all related labs within this Challenge Series. Your trial subscription is valid for **30 days** from the date on which you created it. <br><br>
+>**You must proactively cancel** your Microsoft trial subscription, preferably no later than 25 days after your account creation date, **or you will be charged a subscription fee**.
+
+:::ShowSubCancel(ShowSubCancel=No)
+<br>
+
+---
+
+#Cancel your subscription 
+####Cancel your Azure subscription to avoid charges to your credit card.
 
 >[+alert] Expand for guidance on canceling your Azure trial subscription.
 - Open **Microsoft Edge**, go to +++https://portal.azure.com+++, sign in to the Microsoft Defender portal as +++@lab.Variable(GlobalAdmin)+++ using +++@lab.Variable(UserPassword)+++ as the password, and then dismiss all prompts.
@@ -37,7 +47,7 @@ Show Results in Report: Enabled
 
 >[!help] Want to learn more? Review the documentation on [how to cancel you Azure subscription](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/cancel-azure-subscription "Cancel your Azure Subscription").
 
-###Turn off recurring billing in the Microsoft 365 admin center of your Microsoft 365 E5 (no Teams) trial subscription to avoid charges to your credit card. 
+####Turn off recurring billing in the Microsoft 365 admin center of your Microsoft 365 E5 (no Teams) trial subscription to avoid charges to your credit card. 
 
 >[+alert] Expand for guidance on turning off recurring billing your Microsoft 365 E5 (no Teams) trial subscription.
 - Open **Microsoft Edge**, go to +++https://admin.microsoft.com+++, sign in to the Microsoft Defender portal as +++@lab.Variable(GlobalAdmin)+++ using +++@lab.Variable(UserPassword)+++ as the password, and then dismiss all prompts.
@@ -52,7 +62,7 @@ Show Results in Report: Enabled
 >[!help] Want to learn more? Review the documentation on [how to turn off recurring billing in the Microsoft 365 admin center](https://learn.microsoft.com/en-us/microsoft-365/commerce/subscriptions/renew-your-subscription?view=o365-worldwide "Turn off recurring billing in the Microsoft 365 admin center").
 
 
-###Wait 3 to 4 days and then remove your credit card from the Azure account.
+####Wait 3 to 4 days and then remove your credit card from the Azure account.
 
 >[+alert] Expand for guidance on removing your credit card from the account.
 >
@@ -69,8 +79,10 @@ Show Results in Report: Enabled
 
 :::
 
->[!ALERT] **Reminder:**
->Your Microsoft trial subscription is needed to complete all related labs within this Challenge Series. Your trial subscription is valid for **30 days** from the date on which you created it. <br><br>
->**You must proactively cancel** your Microsoft trial subscription, preferably no later than 25 days after your account creation date, **or you will be charged a subscription fee**.
+<br>
+
+---
+
+#Acknowledgement 
 
 @lab.Activity(Question1)
