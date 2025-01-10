@@ -16,11 +16,11 @@ Show Results in Report: Enabled
 
 - Do you plan to complete any of the related Challenge Labs below using your current trial subscription: 
 
-    @lab.DropDownList(ShowSubCancel)[Yes,No]
+    @lab.DropDownList(ShowSubCancel)[Yes - Proceed to acknowledgement,No - Follow steps to cancel your subscription]
 
     >!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Templates/Sections/NextStepSeries/@lab.Variable(Series).md) 
 
-:::ShowSubCancel(ShowSubCancel=No)
+:::ShowSubCancel(ShowSubCancel=No - Follow steps to cancel your subscription)
 
 ###Cancel your Azure subscription to avoid charges to your credit card.
 
