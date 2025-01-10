@@ -1,3 +1,18 @@
+<!-- This will be used in labs on the page before Summary page that require an Azure trial subscription as well as a M365 trial subscription
+
+Variable: ShowSubCancel 
+
+Activity/Question: 
+Replacement Token Alias: Question1
+Text: ###To proceed, please review and check the box to confirm your understanding and agreement with the following terms:
+Format: Multiple Choice,single answer
+Answer: I understand that a Microsoft trial subscription is necessary to complete all related labs within this Challenge Series. The trial subscription is valid for 30 days from the date of creation.  I acknowledge that I must proactively cancel my Microsoft trial subscription, preferably no later than 25 days after the account creation date, to avoid being charged a subscription fee.
+Blocks page navigation until answered: Enabled 
+Show Results in Report: Enabled 
+
+-->
+
+
 #Before you end your lab 
 
 - Do you plan to complete any of the related Challenge Labs below using your current trial subscription: 
@@ -58,3 +73,5 @@
 >[!ALERT] **Reminder:**
 >Your Microsoft trial subscription is needed to complete all related labs within this Challenge Series. Your trial subscription is valid for **30 days** from the date on which you created it. <br><br>
 >**You must proactively cancel** your Microsoft trial subscription, preferably no later than 25 days after your account creation date, **or you will be charged a subscription fee**.
+
+@lab.Activity(Question1)
