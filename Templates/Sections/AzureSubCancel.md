@@ -38,7 +38,7 @@ Show Results in Report: Enabled
 - Open **Microsoft Edge**, go to +++https://portal.azure.com+++, sign in to the Microsoft Defender portal as +++@lab.Variable(GlobalAdmin)+++ using +++@lab.Variable(UserPassword)+++ as the password, and then dismiss all prompts.
 - In the Azure portal, navigate to +++Cost Management and Billing+++.
 - Select **Cost Management**.
-- Expand **Billing** ant then select **Azure subscriptions**.
+- Expand **Products + services** ant then select **Azure subscriptions**.
 - Select the subscription that you want to cancel.
 - At the top of page, select **Cancel subscription**.
 - Choose **Just learning about the platform** as the Reason for cancellation and then select **Cancel subscription**.
@@ -47,7 +47,7 @@ Show Results in Report: Enabled
 
 >[!help] Want to learn more? Review the documentation on [how to cancel you Azure subscription](https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/cancel-azure-subscription "Cancel your Azure Subscription").
 
-####Turn off recurring billing in the Microsoft 365 admin center of your Microsoft 365 E5 (no Teams) trial subscription to avoid charges to your credit card. 
+####Turn off recurring billing in the Microsoft 365 admin center of your Microsoft 365 E5 (no Teams) and cancel your trial subscription to avoid charges to your credit card. 
 
 >[+alert] Expand for guidance on turning off recurring billing your Microsoft 365 E5 (no Teams) trial subscription.
 - Open **Microsoft Edge**, go to +++https://admin.microsoft.com+++, sign in to the Microsoft Defender portal as +++@lab.Variable(GlobalAdmin)+++ using +++@lab.Variable(UserPassword)+++ as the password, and then dismiss all prompts.
@@ -56,6 +56,10 @@ Show Results in Report: Enabled
 - Select **Manage subscription details**.
 - Select **Edit recurring billing**.
 - Choose **Off** and then select **Save**.
+- Select **Cancel subscription**
+- Select **Next**
+- Choose **Our business needs have changed** and the select **Cancel now**
+- Select **Done**
 
 >[!Note] When you turn off recurring billing for a subscription, it isn’t canceled. The subscription remains active until it expires. You can view the expiration date on the Your products page in the admin center.
 
