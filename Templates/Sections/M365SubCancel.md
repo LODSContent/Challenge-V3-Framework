@@ -11,6 +11,7 @@ Blocks page navigation until answered: Enabled
 Show Results in Report: Enabled 
 
 -->
+<p>
 
 #Before you end your lab 
 
@@ -53,6 +54,8 @@ Show Results in Report: Enabled
 <br>
 
 ---
+
+</p>
 
 #Acknowledgement 
 
