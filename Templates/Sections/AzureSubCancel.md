@@ -12,6 +12,8 @@ Show Results in Report: Enabled
 
 -->
 
+===
+
 #Before you end your lab 
 
 - Do you plan to complete any of the related Challenge Labs below using your current trial subscription? 
