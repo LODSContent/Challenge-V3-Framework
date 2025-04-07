@@ -4,7 +4,6 @@
 - Configure Security Settings by Using Microsoft Group Policy [Guided]
 - Identify Non-secure Network Traffic [Guided]
 - Can You Secure Host Settings Through Firewall Settings and Group Policy? [Advanced]
-- Run a Network Scan Using Nmap [Guided]
 - Configure IPSec [Guided]
 - Configure a Windows PPTP VPN [Guided]
 - Can You Secure Network Access? [Advanced]
