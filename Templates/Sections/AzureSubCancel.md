@@ -81,11 +81,12 @@ Show Results in Report: Enabled
 >- Select Delete.
 >```
 
+:::
 
 <br>
 
 ---
 
-## Acknowledgement 
+#Acknowledgement 
 
 @lab.Activity(Question1)
