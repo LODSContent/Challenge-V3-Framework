@@ -87,6 +87,6 @@ Show Results in Report: Enabled
 
 ---
 
-## Acknowledgement 
+#Acknowledgement 
 
 @lab.Activity(Question1)
