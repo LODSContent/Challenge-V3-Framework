@@ -12,6 +12,8 @@ Challenge Overview
 
 !INSTRUCTIONS[][overview]
 
+!INSTRUCTIONS[][Alert]
+
 !INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Templates/Sections/LabHelp.md)
 
 :::HiddenVariables(ShowVariables=Yes)
