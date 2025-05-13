@@ -22,15 +22,13 @@ Show Results in Report: Enabled
     >!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Templates/Sections/NextStepSeries/@lab.Variable(Series).md) 
 
 
->[!ALERT] **Reminder:**
->Your Microsoft trial subscription is needed to complete all related labs within this Challenge Series. Your trial subscription is valid for **30 days** from the date on which you created it. <br><br>
->**You must proactively cancel** your Microsoft trial subscription, preferably no later than 25 days after your account creation date, **or you will be charged a subscription fee**.
+!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Templates/Sections/CancelReminder.md)
 
 :::ShowSubCancel(ShowSubCancel=No)
 <br>
 
 ---
-####Turn off recurring billing in the Microsoft 365 admin center of your Microsoft 365 E5 (no Teams) and cancel your trial subscription to avoid charges to your credit card. 
+####Turn off recurring billing in the Microsoft 365 admin center of your Microsoft 365 E5 (no Teams) and cancel your trial subscription to avoid potential charges to your credit card. 
 
 >[+alert] Expand for guidance on turning off recurring billing your Microsoft 365 E5 (no Teams) trial subscription.
 - Open **Microsoft Edge**, go to +++https://admin.microsoft.com+++, sign in to the Microsoft Defender portal as +++@lab.Variable(GlobalAdmin)+++ using +++@lab.Variable(UserPassword)+++ as the password, and then dismiss all prompts.
@@ -55,5 +53,7 @@ Show Results in Report: Enabled
 ---
 
 #Acknowledgement 
+
+!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Templates/Sections/CancelReminder.md)
 
 @lab.Activity(Question1)
