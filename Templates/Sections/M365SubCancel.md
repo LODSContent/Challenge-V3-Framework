@@ -21,9 +21,6 @@ Show Results in Report: Enabled
 
     >!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Templates/Sections/NextStepSeries/@lab.Variable(Series).md) 
 
-
-!INSTRUCTIONS[](https://raw.githubusercontent.com/LODSContent/Challenge-V3-Framework/main/Templates/Sections/CancelReminder.md)
-
 :::ShowSubCancel(ShowSubCancel=No)
 <br>
 
