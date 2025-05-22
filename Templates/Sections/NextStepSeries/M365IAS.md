@@ -8,4 +8,4 @@
 - Configure SharePoint Online [Guided]
 - Can You Configure Rights Management? [Advanced]
 - Can You Manage Office 365? [Expert]
-- Microsoft 365 Identity and Services [Prerequisite Lab]
+- Provision a Microsoft 365 Trial Account [Prerequisite Lab]
