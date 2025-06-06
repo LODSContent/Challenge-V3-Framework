@@ -35,7 +35,7 @@ Show Results in Report: Enabled
 ####Cancel your Azure subscription to avoid charges to your credit card.
 
 >[+alert] Expand for guidance on canceling your Azure trial subscription.
-- Open **Microsoft Edge**, go to +++https://portal.azure.com+++, sign in to the Microsoft Defender portal as +++@lab.Variable(GlobalAdmin)+++ using +++@lab.Variable(UserPassword)+++ as the password, and then dismiss all prompts.
+- Open **Microsoft Edge**, go to +++https://portal.azure.com+++, sign in to the Microsoft Defender portal as +++@lab.Variable(Username)+++ using +++@lab.Variable(Password)+++ as the password, and then dismiss all prompts.
 - In the Azure portal, navigate to +++Cost Management and Billing+++.
 - Select **Cost Management**.
 - Expand **Products + services** ant then select **Azure subscriptions**.
@@ -50,7 +50,7 @@ Show Results in Report: Enabled
 ####Turn off recurring billing in the Microsoft 365 admin center of your Microsoft 365 E5 (no Teams) and cancel your trial subscription to avoid charges to your credit card. 
 
 >[+alert] Expand for guidance on turning off recurring billing your Microsoft 365 E5 (no Teams) trial subscription.
-- Open **Microsoft Edge**, go to +++https://admin.microsoft.com+++, sign in to the Microsoft Defender portal as +++@lab.Variable(GlobalAdmin)+++ using +++@lab.Variable(UserPassword)+++ as the password, and then dismiss all prompts.
+- Open **Microsoft Edge**, go to +++https://admin.microsoft.com+++, sign in to the Microsoft Defender portal as +++@lab.Variable(Username)+++ using +++@lab.Variable(Password)+++ as the password, and then dismiss all prompts.
 - Expand **Billing** and then select **Licenses**.
 - Select the **Microsoft 365 E5 (No Teams)** license.
 - Select **Manage subscription details**.
