@@ -1,3 +1,4 @@
+- Set Up Git and Connect to GitHub [Prerequisite Lab]
 - Track Local Changes and Manage Commits [Guided]
 - Create Branches and Merge Changes Safely [Guided]
 - Collaborate Remotely and Use Pull Requests [Guided]
