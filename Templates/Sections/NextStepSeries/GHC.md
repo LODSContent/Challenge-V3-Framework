@@ -1,0 +1,14 @@
+- Set Up Git and Connect to GitHub [Prerequisite Lab]
+- Create a Class from a Prompt Using GitHub Copilot
+- Build Features by Using Copilot in Python
+- Write Unit Tests Automatically by Using Copilot [Guided]
+- Add Comments and Docstrings by Using  Copilot [Guided]
+- Connect to APIs by Using Copilot [Guided]
+- Refactor Python Code by Using Copilot [Guided]
+- Create Shell Scripts by Using  Copilot [Guided]
+- Automate CI Workflows by Using GitHub Actions [Guided]
+- Document Projects by Using Markdown and Copilot [Guided]
+- Refactor and Optimize Code with GitHub Copilot [Guided]
+- Build Command-Line Tools by Using Copilot [Guided]
+- Utilize Copilot for Python Code Correction [Guided]
+
