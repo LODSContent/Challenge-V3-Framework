@@ -1,4 +1,4 @@
-- Configure a Basic Router [Guided]
+- Configure Routers and Switches [Guided]
 - Configure VLANs and Trunking on a Switch [Guided]
 - Perform Subnetting and Network Segmentation [Guided]
 - Implement Access Control Lists (ACLs) [Guided]
