@@ -1,6 +1,6 @@
 - Set Up Git and Connect to GitHub [Prerequisite Lab]
-- Create a Class from a Prompt Using GitHub Copilot
-- Build Features by Using Copilot in Python
+- Create a Class from a Prompt Using GitHub Copilot [Guided]
+- Build Features by Using Copilot in Python [Guided]
 - Write Unit Tests Automatically by Using Copilot [Guided]
 - Add Comments and Docstrings by Using  Copilot [Guided]
 - Connect to APIs by Using Copilot [Guided]
