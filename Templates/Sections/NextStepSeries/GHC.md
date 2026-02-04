@@ -3,7 +3,7 @@
 - Build Features by Using Copilot in Python [Guided]
 - Write Unit Tests Automatically by Using Copilot [Guided]
 - Add Comments and Docstrings by Using  Copilot [Guided]
-- Connect to APIs by Using Copilot [Guided]
+- Develop an API Client with GitHub Copilot [Guided]
 - Refactor Python Code by Using Copilot [Guided]
 - Create Shell Scripts by Using  Copilot [Guided]
 - Automate CI Workflows by Using GitHub Actions [Guided]
