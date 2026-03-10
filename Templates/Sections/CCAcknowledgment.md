@@ -8,6 +8,6 @@
 >
 >Your trial subscription is valid for **30 days** from the date on which you created it.
 >
->**You must proactively cancel** your Microsoft trial subscription, preferably no later than 25 days after your account creation date, **or you will be charged a subscription fee**.
+>At this time, Microsoft is not charging for trial subscriptions; however, out of an abundance of caution, it is recommended that **you proactively cancel your Microsoft trial** subscription upon completion of this Challenge Lab series, and no later than 25 days after your account creation date, to avoid potential subscription charges should Microsoft policies change.
 
 @lab.Activity(Question1)
