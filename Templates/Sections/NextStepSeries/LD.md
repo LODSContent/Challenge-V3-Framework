@@ -2,7 +2,7 @@
 - Distribution Installation in Linux [Guided]
 - Configure and Use GUI Administration Tools in Linux [Guided]
 - Can You Configure Kickstart Installations in Linux? [Advanced]
-- Manage Software with RPM and APT in Linux [Guided]
+- Manage Software with APT in Linux [Guided]
 - Manage Software with Yum in Linux [Guided]
 - Can You Configure a Yum Repository in Linux? [Advanced]
 - Manage Services in Linux  [Guided]
