@@ -1,0 +1,6 @@
+- Assign Server and Database Roles by Using SQL Server [Guided]
+- Authorize Users to Access Resources by Using SQL Server [Guided]
+- Can You Configure SQL Server Security? [Advanced]
+- Back Up SQL Server Databases [Guided]
+- Restore SQL Server Databases [Guided]
+- Can You Back Up and Restore SQL Server Databases? [Advanced]
