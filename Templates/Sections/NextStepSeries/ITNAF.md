@@ -1,4 +1,4 @@
-- Perform a Backup and Restore [Guided]
+- Perform a System Restore [Guided]
 - Use IP Addressing [Guided]
 - Configure Network Services [Guided]
 - Use Linux and Windows Network Command-Line Tools [Guided]
