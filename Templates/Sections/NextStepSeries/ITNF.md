@@ -3,5 +3,5 @@
 - Examine Network Communications by Using Wireshark [Guided]
 - Implement Name Resolution [Guided]
 - Implement DHCP [Guided]
-- Windows Network Command-Line Tools to Configure, Test, and Troubleshoot Network Connectivity [Guided]
+- Network Command-Line Tools to Configure, Test, and Troubleshoot Network Connectivity [Guided]
 - Analyze Network Communications [Guided]
