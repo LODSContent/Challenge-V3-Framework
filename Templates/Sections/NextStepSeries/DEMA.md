@@ -5,7 +5,6 @@
 - Enable Security for Azure Data Lake [Guided]
 - Transform Data by Using Azure Data Factory [Guided]
 - Can You Develop a Batch Processing Solution by Using Azure Data Factory and Azure Data Lake? [Advanced]
-- NO THEME Can You Develop a Batch Processing Solution by Using Azure Data Factory and Azure Data Lake? [Advanced] (COPY)
 - Manage an Azure Event Hub [Guided]
 - Create an Apache Spark Job in Synapse Studio [Guided]
 - Can You Manage Apache Spark Jobs in a Pipeline by Using Azure Synapse Analytics? [Advanced]
