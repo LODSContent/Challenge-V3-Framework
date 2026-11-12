@@ -8,4 +8,4 @@
 - Can You Perform OSINT and Host Discovery? [Advanced]
 - Can You Explore Vulnerabilities in Systems, Network Traffic, and Passwords? [Advanced]
 - Can You Perform DOS and AitM Attacks? [Advanced]
-- Can You Perform OSINT by Using recon-ng, Perform Scans with Nmap & GSA, and Perform AitM Attacks? [Expert]
+- Can You Perform OSINT by Using recon-ng, Perform Scans with Nmap & Nuclei, and Perform AitM Attacks? [Expert]
